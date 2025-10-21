@@ -1,0 +1,2 @@
+1. Batalkan semua migrasi yang sudah berhasil untuk membersihkan database Anda: npx sequelize-cli db:migrate:undo:all
+2. Jalankan kembali semua migrasi dari awal:npx sequelize-cli db:migrate
